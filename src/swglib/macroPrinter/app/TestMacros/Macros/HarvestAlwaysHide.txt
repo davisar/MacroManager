@@ -1,0 +1,4 @@
+/loot all
+/harvest Hide
+/pause 1
+/macro HarvestAlwaysHide

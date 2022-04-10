@@ -1,0 +1,2 @@
+/dumpPausedCommands
+/macro MyMacroFoo

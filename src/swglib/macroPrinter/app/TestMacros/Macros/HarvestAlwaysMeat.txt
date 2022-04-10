@@ -1,0 +1,4 @@
+/loot all
+/harvest Meat
+/pause 1
+/macro HarvestAlwaysMeat

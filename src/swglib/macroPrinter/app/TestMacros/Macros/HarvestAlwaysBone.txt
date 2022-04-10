@@ -1,0 +1,4 @@
+/loot all
+/harvest Bone
+/pause 1
+/macro HarvestAlwaysBone
